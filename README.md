@@ -1,5 +1,4 @@
-## Hi there 👋
-### Leetcode
+## Leetcode
 ---
 ![Leetcode Stats](https://leetcard.jacoblin.cool/hrkmri0672)
 
